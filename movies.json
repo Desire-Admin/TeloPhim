@@ -2,58 +2,58 @@
   "movies": [
     {
       "id": 1,
-      "title": "That nghiep chuyen sinh (Phan 3)",
+      "title": "Thất nghiệp chuyển sinh (Phần 3)",
       "poster": "https://static.animecorner.me/2026/05/1779187746-6b497063174d0afdd8395904b6919d82.jpg",
       "rating": 8.2,
       "year": 2026,
-      "status": "Dang Chieu",
-      "description": "Mushoku Tensei ke ve mot nguoi dan ong vo danh, that nghiep va song khap kin voi cuoc doi day tien nuoi. Sau khi qua doi trong mot tai nan, anh bat ngo duoc tai sinh o mot the gioi gia tuong voi than phan moi la Rudeus Greyrat. Du mang hinh hai cua mot dua tre, Rudeus van giu nguyen ky uc va kinh nghiem tu kien truoc. Quyet tam khong lap lai nhung sai lam cu, cau tu nhu se tan dung co hoi thu hai nay de song mot cuoc doi tron ven va khong con hoi tiec. Trong the gioi tran ngap phep thuat va nhung cuoc phieu luu ky thu, Rudeus khong ngung hoc hoi, ren luyen suc manh, ket giao voi nhung nguoi ban moi va tung buoc truong thanh.",
-      "info": "Dao dien: Ryosuke Shibuya\nDien vien: Yumi Uchiyama, Yoshimi Kohara, Ai Kakuma\nQuoc gia: Nhat Ban",
+      "status": "Đang Chiếu",
+      "description": "Mushoku Tensei kể về một người đàn ông vô danh, thất nghiệp và sống khép kín với cuộc đời đầy tiếc nuối. Sau khi qua đời trong một tai nạn, anh bất ngờ được tái sinh ở một thế giới giả tưởng với thân phận mới là Rudeus Greyrat. Dù mang hình hài của một đứa trẻ, Rudeus vẫn giữ nguyên ký ức và kinh nghiệm từ kiếp trước. Quyết tâm không lặp lại những sai lầm cũ, cậu tự nhủ sẽ tận dụng cơ hội thứ hai này để sống một cuộc đời trọn vẹn và không còn hối tiếc. Trong thế giới tràn ngập phép thuật và những cuộc phiêu lưu kỳ thú, Rudeus không ngừng học hỏi, rèn luyện sức mạnh, kết giao với những người bạn mới và từng bước trưởng thành.",
+      "info": "Đạo diễn: Ryosuke Shibuya\nDiễn viên: Yumi Uchiyama, Yoshimi Kohara, Ai Kakuma\nQuốc gia: Nhật Bản",
       "production": "Netflix",
       "genre": ["Anime", "Phim", "Phim Song Song"],
       "episodes": [
         {
           "episode": 1,
-          "title": "Tap 1",
+          "title": "Tập 1",
           "link": "https://vip.opstream90.com/20260705/36184_705dd9f9/index.m3u8"
         },
         {
           "episode": 2,
-          "title": "Tap 2",
+          "title": "Tập 2",
           "link": "https://vip.opstream90.com/20260705/36185_f0260654/index.m3u8"
         },
         {
           "episode": 3,
-          "title": "Tap 3",
+          "title": "Tập 3",
           "link": "https://vip.opstream10.com/20260720/34407_ee79d5e1/index.m3u8"
         },
         {
           "episode": 4,
-          "title": "Tap 4",
+          "title": "Tập 4",
           "link": "https://vip.opstream10.com/20260720/34408_8f8f6380/index.m3u8"
         }
       ]
     },
     {
       "id": 2,
-      "title": "100 co ban gai yeu ban rat rat rat rat rat nhieu (Phan 3)",
+      "title": "100 cô bạn gái yêu bạn rất rất rất rất rất nhiều (Phần 3)",
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNX_R28r3ZmaS8LVvH14N1bRjCBVa2nqKB7yAbWRs8yHk4-w7_11OBIUEK&s=10",
       "rating": 8.2,
       "year": 2023,
-      "status": "Dang Chieu",
-      "description": "Cau chuyen xoay quanh Yuki, mot sinh vien dai hoc khiem thinh. Cuoc song cua co chu yeu xoay quanh ban be va mang xa hoi, nhung mot cuoc gap go tinh co tren tau da thay doi tat ca khi co gap Itsuomi, mot nguoi ban cua ban co. Itsuomi co the noi ba ngon ngu, nhung lai khong biet ngon ngu ky hieu, dieu nay dat ra nhung thach thuc va cung mo ra co hoi de ca hai xay dung mot moi quan he doc dao.",
-      "info": "Dao dien: Takahiro Omori\nDien vien: Kaede Hondo, Nao Toyama, Ryota Osaka, Sumire Morohoshi, Takeo Otsuka, Tasuku Hatanaka, Yu Miyazaki\nQuoc gia: Nhat Ban",
+      "status": "Đang Chiếu",
+      "description": "Câu chuyện xoay quanh Yuki, một sinh viên đại học khiếm thính. Cuộc sống của cô chủ yếu xoay quanh bạn bè và mạng xã hội, nhưng một cuộc gặp gỡ tình cờ trên tàu đã thay đổi tất cả khi cô gặp Itsuomi, một người bạn của bạn cô. Itsuomi có thể nói ba ngôn ngữ, nhưng lại không biết ngôn ngữ ký hiệu, điều này đặt ra những thách thức và cũng mở ra cơ hội để cả hai xây dựng một mối quan hệ độc đáo.",
+      "info": "Đạo diễn: Takahiro Ōmori\nDiễn viên: Kaede Hondo, Nao Toyama, Ryota Osaka, Sumire Morohoshi, Takeo Otsuka, Tasuku Hatanaka, Yu Miyazaki\nQuốc gia: Nhật Bản",
       "production": "Bibury Animation Studios",
-      "genre": ["Anime", "Tinh Cam", "Hai Huoc"],
+      "genre": ["Anime", "Tình Cảm", "Hài Hước"],
       "episodes": [
         {
           "episode": 1,
-          "title": "Tap 1",
+          "title": "Tập 1",
           "link": "https://vip.opstream10.com/20260719/34397_43a90564/index.m3u8"
         },
         {
           "episode": 2,
-          "title": "Tap 2",
+          "title": "Tập 2",
           "link": "https://vip.opstream10.com/20260719/34398_aa6a8423/index.m3u8"
         }
       ]
