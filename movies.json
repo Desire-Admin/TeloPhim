@@ -60,25 +60,75 @@
     },
     {
       "id": 3,
-      "title": "Truyền Hình VTV1",
-      "poster": "https://level-crimson-zknnjf1k.edgeone.dev/IMG_20260722_220118.png",
+      "title": "Truyền Hình VTV",
+      "poster": "https://vtvlogo.edgeone.dev/IMG_20260722_223909.png",
       "rating": 0.0,
       "year": 1970,
       "status": "Truyền Hình",
-      "description": "VTV1 - Kênh Thời sự Quốc gia
-
-· Kênh truyền hình chính thống số 1 của Việt Nam.
-· Phát sóng tin tức nóng, sự kiện chính trị - xã hội 24/7.
-· Bản tin Thời sự 19h là chương trình vàng quốc gia.
-· Cập nhật liên tục trên VTV Go và YouTube.",
+      "description": " Đài Truyền Hình Quốc Gia Việt Nam VTV Phát Sóng Nội Dung Giải Trí Và Tin Tức Thời Sự Và Chính Luận Lịch Sử VTV Cũng Thường Phát Sóng Nhiều Bộ Phim Tài Liệu Hay. Sử Dụng VTV Go Và YouTube Để Xem Thêm",
       "info": "Giám Đốc: Nguyễn Thanh Lâm\nBan Thời Sự: Nguyễn Phương Mai\nQuốc gia: Việt Nam",
       "production": "VTV Digital",
-      "genre": ["Phóng Sự", "Thời Sự", "Tin tức", "Tài Liệu"],
+      "genre": ["Phóng Sự", "Thời Sự", "Tin tức", "Tài Liệu", "Giải Trí", "Chính Luận", "Tài Liệu"],
       "episodes": [
         {
           "episode": 1,
           "title": "VTV1",
           "link": "https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8"
+        },
+        {
+          "episode": 2,
+          "title": "VTV2",
+          "link": "https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8"
+        },
+        {
+          "episode": 3,
+          "title": "VTV3",
+          "link": "https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8"
+        },
+        {
+          "episode": 4,
+          "title": "VTV4",
+          "link": "https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8"
+        },
+        {
+          "episode": 5,
+          "title": "VTV5",
+          "link": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8"
+        },
+        {
+          "episode": 6,
+          "title": "VTV6",
+          "link": "https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8"
+        },
+        {
+          "episode": 7,
+          "title": "VTV5 Tây Nam Bộ",
+          "link": "https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8"
+        },
+        {
+          "episode": 8,
+          "title": "VTV5 Tây Nguyên",
+          "link": "https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8"
+        },
+        {
+          "episode": 9,
+          "title": "VTV7",
+          "link": "https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8"
+        },
+        {
+          "episode": 10,
+          "title": "VTV8",
+          "link": "https://live.fptplay53.net/live/media/vtv8/live-hls-avc/index.m3u8"
+        },
+        {
+          "episode": 11,
+          "title": "VTV9",
+          "link": "https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8"
+        },
+        {
+          "episode": 12,
+          "title": "VTV10",
+          "link": "https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8"
         }
       ]
     }
