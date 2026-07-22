@@ -148,6 +148,23 @@
           "episode": 1,
           "title": "Da Vinci Việt Nam",
           "link": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8"
+        },
+        {
+      "id": 5,
+      "title": "Đôi Cánh Kinh Hoàng",
+      "poster": "https://motphimr.cx/storage/images/doi-canh-kinh-hoang/doi-canh-kinh-hoang-thumb.webp",
+      "rating": 6.0,
+      "year": 2026,
+      "status": "Phim Lẻ",
+      "description": "",
+      "info": "Đồng Đạo Diễn: Qin Pengfei, Ashton Chen\nDiễn Viên: Ashton Chen, Iko Uwais \nQuốc gia: "Trung Quốc",
+      "production": "IQIYI",
+      "genre": ["Võ Thuật", "Hành Động", "Giật Gân", "Tội Phạm"],
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "VietSub",
+          "link": "https://vip.opstream90.com/20260705/36138_fe3bb188/index.m3u8"
         }
       ]
     }
