@@ -190,6 +190,45 @@
           "link": "https://vip.opstream90.com/20260705/36136_59dde494/index.m3u8"
         }
       ]
+    },
+    {
+      "id": 10,
+      "title": "Thử Nghiệm Hoa Kỳ",
+      "poster": "https://pub.edu.vn/uploads/400x600/2026/06/thu-nghiem-hoa-ky-thumb-400x600.webp",
+      "rating": 10,
+      "year": 2026,
+      "status": "Phim Bộ",
+      "description": "Cuộc sống. Tự do. Mưu cầu hạnh phúc. Loạt phim tài liệu lịch sử đồ sộ này khắc họa quá trình hình thành một quốc gia trên lý tưởng của những nhà lập quốc Hoa Kỳ.",
+      "info": "Đạo Diễn: Không Xác Định\nDiễn Viên: Martin Sheen\nQuốc gia: Âu Mỹ",
+      "production": "Netflix",
+      "genre": ["Tài Liệu", "Phim Bộ"],
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "VietSub",
+          "link": "https://vip.opstream90.com/20260625/35601_f9ac3ab1/index.m3u8"
+        },
+        {
+          "episode": 2,
+          "title": "VietSub",
+          "link": "https://vip.opstream90.com/20260625/35602_0a41cf40/index.m3u8"
+        },
+        {
+          "episode": 3,
+          "title": "VietSub",
+          "link": "https://vip.opstream90.com/20260625/35605_3d015642/index.m3u8"
+        },
+        {
+          "episode": 4,
+          "title": "VietSub",
+          "link": "https://vip.opstream90.com/20260625/35603_1869fb91/index.m3u8"
+        },
+        {
+          "episode": 5,
+          "title": "VietSub",
+          "link": "https://vip.opstream90.com/20260625/35604_6be596e9/index.m3u8"
+        }
+      ]
     }
   ]
 }
