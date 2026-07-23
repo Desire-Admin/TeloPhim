@@ -186,7 +186,7 @@
       "episodes": [
         {
           "episode": 1,
-          "title": "VietSub",
+          "title": "VietSub Tập 1",
           "link": "https://vip.opstream90.com/20260705/36136_59dde494/index.m3u8"
         }
       ]
@@ -227,6 +227,25 @@
           "episode": 5,
           "title": "VietSub Tập 5",
           "link": "https://vip.opstream90.com/20260625/35604_6be596e9/index.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Khi Chồng Hợp Lực",
+      "poster": "https://phimimg.com/upload/vod/20260619-1/294869a1da1090104a63fe1329c61f09.jpg",
+      "rating": 6.2,
+      "year": 2026,
+      "status": "Điện Ảnh",
+      "description": "",
+      "info": "Đạo Diễn: Park Gyu-tae\nDiễn Viên: Jin Sun-kyu, Gong Myoung, Kim Ji-seok, Yoon Kyung-ho, Kang Hanna, Lee Da-hee, Jeon So-min\nQuốc gia: Hàn Quốc",
+      "production": "Black Bear Pictures",
+      "genre": ["Hành Động", "Hài Hước"],
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "VietSub Tập 1",
+          "link": "https://vip.opstream90.com/20260619/35261_3bfc3fb5/index.m3u8"
         }
       ]
     }
