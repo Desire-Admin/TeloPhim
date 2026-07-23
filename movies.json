@@ -209,6 +209,32 @@ Noah Jupe,\nQuốc gia: Hoa Kỳ",
           "link": "https://vip.opstream800.com/20260723/178_8f855179/index.m3u8"
         }
       ]
+    },
+    {
+      "id": 8,
+      "title": "Thời Khắc Công Bố",
+      "poster": "https://cdn.phimvietsub.lol/public/posters/poster_cai-chet-cua-robin-hood_640501ec.webp",
+      "rating": 7.2,
+      "year": 2026,
+      "status": "Điện Ảnh",
+      "description": "Nếu Một Ngày Bạn Biết Rằng Loài Người Không Cô Độc Trong Vũ Trụ, Bạn Sẽ Không Sợ Hãi Chứ",
+      "info": "Đạo Diễn: Curry Barker\nDiễn Viên: Hugh Jackman, Jodie Comer, Bill Skarsgård,
+Murray Bartlett,
+Noah Jupe,\nQuốc gia: Hoa Kỳ",
+      "production": "Lyrical Media",
+      "genre": ["Khoa Học", "Viễn Tưởng", "Bí Ẩn"],
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Thuyết Minh AI",
+          "link": "https://vip.opstream800.com/20260722/3_eccbc87e/index.m3u8"
+        },
+        {
+          "episode": 2,
+          "title": "VietSub",
+          "link": "https://vip.opstream800.com/20260722/2_c81e728d/index.m3u8"
+        }
+      ]
     }
   ]
 }
