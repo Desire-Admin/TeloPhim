@@ -233,6 +233,25 @@ Noah Jupe,\nQuốc gia: Hoa Kỳ",
           "link": "https://vip.opstream800.com/20260722/2_c81e728d/index.m3u8"
         }
       ]
+    },
+    {
+      "id": 9,
+      "title": "Bộ Chỉnh Âm",
+      "poster": "https://media.themoviedb.org/t/p/w220_and_h330_face/bVdoBIplrtoSITlvZkNdpnkcCl4.jpg",
+      "rating": 7.2,
+      "year": 2026,
+      "status": "Điện Ảnh",
+      "description": "Kỹ năng chỉnh đàn piano tỉ mỉ của một người thợ chỉnh đàn tài năng đã dẫn anh ta đến việc phát hiện ra một năng khiếu bất ngờ trong việc mở két sắt, làm đảo lộn cuộc sống của anh ta.",
+      "info": "Đạo Diễn: Daniel Roher\nDiễn Viên: Leo Woodall, Dustin Hoffman, Havana Rose Liu, Lior Raz, Tovah Feldshuh, Jean Reno\nQuốc gia: Hoa Kỳ",
+      "production": "Black Bear Pictures",
+      "genre": ["Phim Hình Sự", "Chính Kịch", "Gây Cấn"],
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "VietSub",
+          "link": "https://vip.opstream90.com/20260705/36136_59dde494/index.m3u8"
+        }
+      ]
     }
   ]
 }
